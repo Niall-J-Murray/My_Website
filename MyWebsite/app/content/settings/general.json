@@ -1,0 +1,10 @@
+{
+  "title": "Home",
+  "titleTemplate": "| nm.me",
+  "welcomeText": "I'm Niall - Welcome to my website.\n\n Take a look around to learn about me!",
+  "logo": "/images/uploads/logo.svg",
+  "icon": "/images/uploads/logo.png",
+  "loadingColor": "#0b3765",
+  "seoDescription": "",
+  "seoMetaImage": ""
+}
